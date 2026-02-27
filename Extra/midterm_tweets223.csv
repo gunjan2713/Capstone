@@ -1,0 +1,1 @@
+tweet_id,row_num,user_id,user_handle,user_name,text,tweet_created_at,retweets,likes,user_bio,followers,following,replies,user_location,lang,is_quote,is_retweet,in_reply_to_status_id,conversation_id,hashtags,user_verified,user_created_at,possibly_sensitive,source,place
